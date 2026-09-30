@@ -1,0 +1,18 @@
+# MmGatewayJs.HealthResponse
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**status** | **String** |  | [optional] [default to &#39;ok&#39;]
+
+
+
+## Enum: StatusEnum
+
+
+* `ok` (value: `"ok"`)
+
+
+
+
